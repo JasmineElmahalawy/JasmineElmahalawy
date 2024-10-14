@@ -10,7 +10,7 @@
 
   ### Connect with me: 
 <div id="badges">
-  <a href="https:https://www.linkedin.com/in/jasmine-elmahalawy/">
+  <a href="https://www.linkedin.com/in/jasmine-elmahalawy/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
   </a>
 </div>
