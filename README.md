@@ -1,6 +1,6 @@
 # 👋 Hi, I am Jasmine!
 👩🏻‍💻 A Computer Engineering graduate sharing about my journey and learnings in tech<br/>
-🔭 Currently enhancing my skills in penetration testing and vulnerability analysis through hands-on projects and practical training @ DEPI.<br/>
+🔭 Currently enhancing my skills in penetration testing through hands-on projects and practical training @ DEPI.<br/>
 🌱 I’m actively learning about red teaming, network security, and ethical hacking.<br/>
 💬 Feel free to ask me about Cybersecurity, AI, and Robotics.<br/>
 📫 How to reach me: jasmine.mohamed.abdelaty@gmail.com
