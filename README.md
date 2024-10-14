@@ -1,8 +1,8 @@
 # 👋 Hi, I am Jasmine!
-👩🏻‍💻A Computer Engineering graduate sharing about my journey and learnings in tech<br/>
-🔭  I’m currently enhancing my skills in penetration testing and vulnerability analysis through hands-on projects and practical training @ DEPI.<br/>
+👩🏻‍💻 A Computer Engineering graduate sharing about my journey and learnings in tech<br/>
+🔭 Currently enhancing my skills in penetration testing and vulnerability analysis through hands-on projects and practical training @ DEPI.<br/>
 🌱 I’m actively learning about red teaming, network security, and ethical hacking.<br/>
-💬  Feel free to ask me about Cybersecurity, AI, and Robotics.<br/>
+💬 Feel free to ask me about Cybersecurity, AI, and Robotics.<br/>
 📫 How to reach me: jasmine.mohamed.abdelaty@gmail.com
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Jasmineelmahalawy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
